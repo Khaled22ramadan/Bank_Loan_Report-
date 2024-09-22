@@ -1,5 +1,5 @@
 # Bank_Loan_Report_Analysis
-This project demonstrates a Bank Loan Report Dashboard created using Microsoft Excel. The dashboard provides a comprehensive overview of loan applications, funded amounts, and key financial metrics. It visualizes data related to loan applications by month, state, purpose, and various other categories, enabling stakeholders to gain insights into bank loan trends and performance.
+This project demonstrates a Bank Loan Report Dashboard created ## using Microsoft Excel. The dashboard provides a comprehensive overview of loan applications, funded amounts, and key financial metrics. It visualizes data related to loan applications by month, state, purpose, and various other categories, enabling stakeholders to gain insights into bank loan trends and performance.
 
 # Key Features:
 ## Total Loan Applications:
